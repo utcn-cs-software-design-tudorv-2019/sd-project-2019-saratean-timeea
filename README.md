@@ -1,15 +1,16 @@
 <p> 
   Hotel management <br>
-  -design-ul si implementarea unei aplicatii client-server pentru gestionarea unui hotel <br>
-  -2 tipuri de user: client si administrator hotel <br>
-  Clientul va putea sa : <br>
-    -se inregistreze in aplicatie <br>
-    -vizualizeze camerele disponibile (oferte) in momentul de fata <br>
-    -inchirieze o camera <br>
-   Administratorul hotelului poate sa faca: <br>
-    -CRUD user <br>
-    -CRUD oferte <br>
-    -Adaugarea de oferte noi <br>
-   Aplicatia va fi web (Spring) si baze de date relationale (MySQL)
+  -design and implement a client-server application that manages a hotel<br>
+  -2 types of user: client and hotel admin <br>
+  The client can : <br>
+    -register <br>
+    -view the available rooms and offers <br>
+    -rent a room <br>
+   The admin can: <br>
+    -Create a user, read a user, update a user and delete a user <br>
+    -Create an offer, read an offer, update an offer and delete an offer <br>
+    -add a new offer <br>
+   The application is web (Spring) and uses relational database (MySQL)
+   
   
 </p>
